@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.time.Year;
 
-public class Solution6 {
+public class Solution06 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("What is your current age? ");
