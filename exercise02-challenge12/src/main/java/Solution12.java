@@ -13,7 +13,7 @@ public class Solution12 {
         System.out.print("Enter the rate of interest: ");
         double r = sc.nextDouble();
         System.out.print("Enter the number of years: ");
-        double y = sc.nextDouble();
+        int y = sc.nextInt();
         double ret = p * (1 + ((r/100) * y));
         ret = (ret * 100) + 0.99999999;
         ret = (int) ret;
