@@ -1,5 +1,5 @@
 /*
- *  UCF COP3330 Fall 2021 Assignment 08 Solution
+ *  UCF COP3330 Fall 2021 Assignment 2 Solution 08
  *  Copyright 2021 Justin Mazor
  */
 

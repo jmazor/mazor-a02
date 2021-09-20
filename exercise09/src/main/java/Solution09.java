@@ -1,5 +1,5 @@
 /*
- *  UCF COP3330 Fall 2021 Assignment 09 Solution
+ *  UCF COP3330 Fall 2021 Assignment 2 Solution 09
  *  Copyright 2021 Justin Mazor
  */
 import java.util.Scanner;
